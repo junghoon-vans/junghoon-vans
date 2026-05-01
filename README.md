@@ -16,8 +16,8 @@ That's why I decided to become a Polyglot Developer.
 - And probably more.
 
 ## 📚 Latest Blog Post
-- [2023/09/21 - Java 21 패턴 매칭 제대로 활용하기(with Scala)](https://vanslog.io/posts/language/java/java-21-pattern-matching-usecase-with-scala/)
-- [2023/08/30 - Spring Data Meilisearch #3 - 통합테스트 환경 구축](https://vanslog.io/posts/project/spring-data-meilisearch/build-integration-test-environment/)
-- [2023/08/10 - Spring Data Meilisearch #2 - 어노테이션 기반 설정](https://vanslog.io/posts/project/spring-data-meilisearch/support-configuration-with-annotation/)
-- [2023/07/26 - Spring Data Meilisearch #1 - 네임스페이스 기반 설정](https://vanslog.io/posts/project/spring-data-meilisearch/support-configuration-with-namespace/)
-- [2023/07/21 - Meilisearch를 위한 Testcontainers 라이브러리 개발기](https://vanslog.io/posts/project/testcontainers-meilisearch/)
+- [2023/09/21 - Java 21 Pattern Matching Usecase With Scala](https://vanslog.io/posts/language/java/java-21-pattern-matching-usecase-with-scala/)
+- [2023/08/30 - Build Integration Test Environment](https://vanslog.io/posts/project/spring-data-meilisearch/build-integration-test-environment/)
+- [2023/08/10 - Support Configuration With Annotation](https://vanslog.io/posts/project/spring-data-meilisearch/support-configuration-with-annotation/)
+- [2023/07/26 - Support Configuration With Namespace](https://vanslog.io/posts/project/spring-data-meilisearch/support-configuration-with-namespace/)
+- [2023/07/21 - Testcontainers Meilisearch](https://vanslog.io/posts/project/testcontainers-meilisearch/)
