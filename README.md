@@ -20,9 +20,9 @@ I like building systems that connect:
 
 ## What I work on
 
-- DeFi protocols and AMM design
-- Smart contract development on Gno.land
-- Backend systems for blockchain applications
+- DeFi applications and DEX development
+- Smart contracts on Gno.land
+- Backend systems for blockchain products
 - Event-driven systems, data pipelines, and APIs
 - Developer tools and infrastructure
 
