@@ -1,18 +1,57 @@
-[![Vanslog](https://img.shields.io/badge/Vanslog-0AA?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAACzklEQVRYCe1Xz2sTQRT+Nk0T+8OmVJKmbVKKPRRaKXjw5kHwICoWBQ+KF8+KXjwIYrEgCP0D/Ae0FU0ogqBQUE+K4MFCaRFPtk2bbmNIMLGmaZrG90I3ZHdms7uQRA9+sJmdN/Pe++a9mbcZBVNTLoyN3UOpdBNAkJ5mQIWiPMby8iMF0eh9cv6wGV4FH4oy6TpYuTDWFAFF3UWOmhV22ZqCTOCv4j8Bt1n8L4dCmB4fF4bfbG7i1sKCIGfBnZER3BgeFsYeLC1hZm1NkLPAlMD7RAKhtjZ4XPosXR8awt3FRfwuFgWD1wYHcbSjQycvlkp4S7bMoLdeNSu1u4vXtFojOt1unO/vN4oRbm/H8e5uQf5uawvqzo4g1wSmBHjCzOqqNk/XXg2HdX3uTPT1CTIWzJqEXptckwBHIE2RMOIsOfO1turEFyRR4TS93NjQzTN2ahLI7+8jur5u1MEh2hcXBwYq8sOUllOBQKWvvbyKx5Hd29O60rYmAdZ4aiMNZ4JBeA2blXVnTXR5TIMlgY/JJL5vb2vzK+3p3l74vd5yf0IS/iSlbp42oBUsCZTIguwMuxUFXCtaqD0n2YCRWAwFSqEVLAmwAbNQXqHTcMznwxGPR/Bjtfs1BVsEvmWz+JxKaTqV9qTfj0yhAK4Z1eCUfaLU2YEtAmxIVhNY+RKdBuNR49Vz6uzANoHnnFMqq0ZwGl7QWDWeWRSf6rm2CfzI5zGvqtW65fcTPT2I5XJI0DjjSzqNr5lM+d3Oj20CbEyWBpbzaZg7KFh2Nx/rMRwR4MrGm84I/jZwGvjLx6lyAkcEclTb5yS1fbSrCz+JGK8+TulwAkcE2PCTlRX8ovpufLga3jb5o1KLkIJIRNzatTTqPOY4AnX272wT1ts52/snIiBWl0YsVW5TdZVvqfLBxkvphtxCV/MPCAT4f9MoPZ2N91r2wNfzab6e/wHEnu/EI/ewjgAAAABJRU5ErkJggg==)](https://vanslog.io)
-[![Vanstil](https://img.shields.io/badge/Vanstil-403494?style=flat-square&logo=obsidian&logoColor=white)](https://til.vanslog.io)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junghoon-ban)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x&logoColor=white)](https://twitter.com/junghoon_vans)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007EBB?style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgaGVpZ2h0PSI3MiIgdmlld0JveD0iMCAwIDcyIDcyIiB3aWR0aD0iNzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj48cGF0aCBkPSJNOCw3MiBMNjQsNzIgQzY4LjQxODI3OCw3MiA3Miw2OC40MTgyNzggNzIsNjQgTDcyLDggQzcyLDMuNTgxNzIyIDcyLC04LjExNjI0NTAxZS0xNiA2NCwwIEw4LDAgQzMuNTgxNzIyLDguMTE2MjQ1MDFlLTE2IC01LjQxMDgzMDAxZS0xNiwzLjU4MTcyMiAwLDggTDAsNjQgQzUuNDEwODMwMDFlLTE2LDY4LjQxODI3OCAzLjU4MTcyMiw3MiA4LDcyIFoiIGZpbGw9IiMwMDdFQkIiLz48cGF0aCBkPSJNNjIsNjIgTDUxLjMxNTYyNSw2MiBMNTEuMzE1NjI1LDQzLjgwMjExNDkgQzUxLjMxNTYyNSwzOC44MTI3NTQyIDQ5LjQxOTc5MTcsMzYuMDI0NTMyMyA0NS40NzA3MDMxLDM2LjAyNDUzMjMgQzQxLjE3NDYwOTQsMzYuMDI0NTMyMyAzOC45MzAwNzgxLDM4LjkyNjExMDMgMzguOTMwMDc4MSw0My44MDIxMTQ5IEwzOC45MzAwNzgxLDYyIEwyOC42MzMzMzMzLDYyIEwyOC42MzMzMzMzLDI3LjMzMzMzMzMgTDM4LjkzMDA3ODEsMjcuMzMzMzMzMyBMMzguOTMwMDc4MSwzMi4wMDI5MjgzIEMzOC45MzAwNzgxLDMyLjAwMjkyODMgNDIuMDI2MDQxNywyNi4yNzQyMTUxIDQ5LjM4MjU1MjEsMjYuMjc0MjE1MSBDNTYuNzM1Njc3MSwyNi4yNzQyMTUxIDYyLDMwLjc2NDQ3MDUgNjIsNDAuMDUxMjEyIEw2Miw2MiBaIE0xNi4zNDkzNDksMjIuNzk0MDEzMyBDMTIuODQyMDU3MywyMi43OTQwMTMzIDEwLDE5LjkyOTY1NjcgMTAsMTYuMzk3MDA2NyBDMTAsMTIuODY0MzU2NiAxMi44NDIwNTczLDEwIDE2LjM0OTM0OSwxMCBDMTkuODU2NjQwNiwxMCAyMi42OTcwMDUyLDEyLjg2NDM1NjYgMjIuNjk3MDA1MiwxNi4zOTcwMDY3IEMyMi42OTcwMDUyLDE5LjkyOTY1NjcgMTkuODU2NjQwNiwyMi43OTQwMTMzIDE2LjM0OTM0OSwyMi43OTQwMTMzIFogTTExLjAzMjU1MjEsNjIgTDIxLjc2OTQwMSw2MiBMMjEuNzY5NDAxLDI3LjMzMzMzMzMgTDExLjAzMjU1MjEsMjcuMzMzMzMzMyBMMTEuMDMyNTUyMSw2MiBaIiBmaWxsPSIjRkZGIi8+PC9nPjwvc3ZnPg==)](https://www.linkedin.com/in/junghoon-ban)
+[![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/vans_x96)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:junghoon.ban@gmail.com)
+[![Vanslog](https://img.shields.io/badge/Vanslog-0AA?style=flat-square)](https://vanslog.io)
+[![Vanstil](https://img.shields.io/badge/Vanstil-403494?style=flat-square&logo=obsidian&logoColor=white)](https://til.vanslog.io)
 
-## 🧑🏻‍💻 Who am I
+## Hi, I'm Junghoon Ban 👋
 
-Polyglot Developer
+Backend & Blockchain Engineer building DeFi infrastructure across off-chain systems and on-chain smart contracts.
 
-Believe that no technology can solve every problem.<br>
-That's why I decided to become a Polyglot Developer.
+Currently working on **GnoSwap**, a concentrated liquidity AMM DEX for the **Gno.land** ecosystem.
 
-- Kotlin, Java, Scala
-- TS, JS, Python
-- And probably more.
+I like building systems that connect:
+- reliable backend infrastructure
+- blockchain execution layers
+- smart contracts
+- product-facing applications
 
-## 📚 Latest Blog Post
+---
+
+## What I work on
+
+- DeFi protocols and AMM design
+- Smart contract development on Gno.land
+- Backend systems for blockchain applications
+- Event-driven systems, data pipelines, and APIs
+- Developer tools and infrastructure
+
+---
+
+## Tech Stack
+
+**Backend**
+- Golang
+- Kotlin, Java, Spring Boot
+- Kafka, Redis, MongoDB, PostgreSQL, MySQL
+
+**Blockchain**
+- Gno.land / Gnolang
+- Cosmos / IBC
+- DeFi, AMMs, staking, token mechanics
+
+**Frontend**
+- TypeScript, Next.js
+
+---
+
+## Philosophy
+
+I don't believe one technology solves every problem.
+
+I care about choosing the right tool for the right layer —
+from backend systems to smart contracts, from infrastructure to user-facing products.
+
+---
+
+## Latest Blog Post
