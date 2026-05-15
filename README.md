@@ -55,8 +55,8 @@ from backend systems to smart contracts, from infrastructure to user-facing prod
 ---
 
 ## Latest Blog Post
-- [2023/09/21 - Java 21 Pattern Matching Usecase With Scala](https://vanslog.io/posts/language/java/java-21-pattern-matching-usecase-with-scala/)
-- [2023/08/30 - Build Integration Test Environment](https://vanslog.io/posts/project/spring-data-meilisearch/build-integration-test-environment/)
-- [2023/08/10 - Support Configuration With Annotation](https://vanslog.io/posts/project/spring-data-meilisearch/support-configuration-with-annotation/)
-- [2023/07/26 - Support Configuration With Namespace](https://vanslog.io/posts/project/spring-data-meilisearch/support-configuration-with-namespace/)
-- [2023/07/21 - Testcontainers Meilisearch](https://vanslog.io/posts/project/testcontainers-meilisearch/)
+- [2023/09/21 - Using Java 21 Pattern Matching Effectively (with Scala)](https://vanslog.io/posts/language/java/java-21-pattern-matching-usecase-with-scala/)
+- [2023/08/30 - Spring Data Meilisearch #3 - Building an Integration Test Environment](https://vanslog.io/posts/project/spring-data-meilisearch/build-integration-test-environment/)
+- [2023/08/10 - Spring Data Meilisearch #2 - Annotation-based Configuration](https://vanslog.io/posts/project/spring-data-meilisearch/support-configuration-with-annotation/)
+- [2023/07/26 - Spring Data Meilisearch #1 - Namespace-based Configuration](https://vanslog.io/posts/project/spring-data-meilisearch/support-configuration-with-namespace/)
+- [2023/07/21 - Building a Testcontainers Library for Meilisearch](https://vanslog.io/posts/project/testcontainers-meilisearch/)
