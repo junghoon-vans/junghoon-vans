@@ -6,42 +6,32 @@
 
 ## Hi, I'm Junghoon Ban 👋
 
-Backend & Blockchain Engineer building DeFi infrastructure across off-chain systems and on-chain smart contracts.
+Backend & blockchain engineer working on DeFi infrastructure for the **Gno.land** ecosystem.
 
-Currently working on **GnoSwap**, a concentrated liquidity AMM DEX for the **Gno.land** ecosystem.
+Currently building **GnoSwap**, a concentrated liquidity AMM DEX, across smart contracts,
+backend/indexing infrastructure, and product-facing systems.
 
-I like building systems that connect:
-- reliable backend infrastructure
-- blockchain execution layers
-- smart contracts
-- product-facing applications
+Previously built Java/Spring developer tooling such as **spring-data-meilisearch**,
+and I still enjoy bridging reliable backend systems with on-chain execution layers.
 
 ---
 
-## What I work on
+## Focus
 
-- DeFi applications and DEX development
-- Smart contracts on Gno.land
-- Backend systems for blockchain products
-- Event-driven systems, data pipelines, and APIs
-- Developer tools and infrastructure
+- **DeFi systems** — AMMs, liquidity, staking, token mechanics, and DEX product flows
+- **Gno.land** — Gnolang smart contracts, realms, ecosystem tooling, and chain integrations
+- **Backend infrastructure** — Go, Java/Kotlin, Spring, event-driven systems, APIs, and data pipelines
+- **Product integration** — indexers, user-facing applications, TypeScript, and Next.js
 
 ---
 
-## Tech Stack
+## Featured Work
 
-**Backend**
-- Golang
-- Kotlin, Java, Spring Boot
-- Kafka, Redis, MongoDB, PostgreSQL, MySQL
-
-**Blockchain**
-- Gno.land / Gnolang
-- Cosmos / IBC
-- DeFi, AMMs, staking, token mechanics
-
-**Frontend**
-- TypeScript, Next.js
+- **[GnoSwap](https://github.com/gnoswap-labs/gnoswap)** — concentrated liquidity AMM DEX on Gno.land.
+  Working across smart contracts, backend/indexing infrastructure, and product-facing systems.
+- **[gno-ibc](https://github.com/onbloc/gno-ibc)** — IBC-related infrastructure for Gno.land and EVM interoperability.
+- **[spring-data-meilisearch](https://github.com/junghoon-vans/spring-data-meilisearch)** — Spring Data-style integration for Meilisearch,
+  including templates, repository-style data access, XML namespace support, and Testcontainers-based tests.
 
 ---
 
@@ -54,4 +44,6 @@ from backend systems to smart contracts, from infrastructure to user-facing prod
 
 ---
 
-## Latest Blog Post
+## Recent Writing
+
+_Auto-updated from [Vanslog](https://vanslog.io)._
